@@ -1,0 +1,113 @@
+[
+    {
+    "recipe_name": "Chocolate Chip Cookies",
+    "description": "A classic cookie recipe",
+
+
+    "ingredients": [
+        {
+            "name": "butter",
+            "amount": "1 lb",
+            "notes": "softened"
+        },
+        {
+            "name": "brown sugar",
+            "amount": "1 1/2 cups"
+        },
+
+        {
+            "name": "white sugar",
+            "amount": "1 1/2 cups"
+        },
+        {
+            "name": "eggs",
+            "amount": "3"
+        },
+        {
+            "name":"vanilla",
+            "amount": "2 tsp"
+        },
+        {
+            "name": "baking soda",
+            "amount": " 1 1/2 tsp"
+        },
+        {
+            "name": "salt",
+            "amount": "1/2 tsp"
+        },
+        {   
+            "name": "flour",
+            "amount": "5 cups",
+            "notes": "3 cups white, 2 cups whole wheat"
+        },
+        {
+            "name": "semi-sweet chocolate chips",
+            "amount": "2 cups"
+        },
+        {
+            "name": 
+            "shredded coconut",
+            "amount": "1-2 cups"
+        }
+    ],
+
+            
+
+
+    "steps": [
+
+        "Cream the butter and sugar together, then beat in the eggs and vanilla",
+        "Mix in salt, soda and flour",
+        "Add chocolate chips and coconut"
+    ]
+
+},
+{
+        "recipe_name": "Pancakes",
+        "description": "Fluffy homemade pancakes",
+
+        "ingredients": [
+            {
+
+                "name": "flour",
+                "amount": "1 1/2 cups"
+            },
+             {
+                "name": "baking powder",
+                "amount": "3 1/2 tsp"
+            },
+            {
+                "name": "salt",
+                "amount": "1 tsp"
+            },
+            {
+                "name": "sugar",
+                "amount": "1 tbsp"
+            },
+            {
+                "name": "milk",
+                "amount": "1 1/4 curps"
+            },
+            {
+                "name": "egg",
+                "amount": "1"
+            },
+            {
+                "name": "butter",
+                "amount": "3 tbsp",
+                "notes": "melted"
+            }
+            
+    ]    
+     ,
+
+        "steps": [
+            "In a bowl, mix together flour, baking powder, salt, and sugar",
+            "Make a well in the center and pour in milk, egg, and melted butter",
+            "Mix until smooth",
+            "Heat a lightly oiled griddle over medium high heat",
+            "Pour batter onto griddle, brown on both sides, and serve hot"
+                ]
+
+    }
+]
